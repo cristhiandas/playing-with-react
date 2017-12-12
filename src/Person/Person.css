@@ -1,0 +1,9 @@
+.Person {
+  background: linear-gradient(gray, black, gray); /* Standard syntax */
+  width: 60%;
+  color: white;
+  margin: 16px auto;
+  border: 1px solid #bbb;
+  box-shadow: 0 2px 2px #fff;
+  padding: 10px;
+}
