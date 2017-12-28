@@ -7,3 +7,9 @@
   box-shadow: 0 2px 2px #fff;
   padding: 10px;
 }
+
+/* @media (min-width:500px){
+  .Person {
+    width:450px;
+  } 
+} */
